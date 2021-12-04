@@ -58,7 +58,7 @@
       "ImageURL":"https://automaton-media.com/wp-content/uploads/2021/08/20210825-173430-001.jpg"
    },
       {
-      "CpaUrlImg":"More Information",
-      "cpaUrl":"https://automaton-media.com/wp-content/uploads/2021/08/20210825-173430-001.jpg"
+      "CpaUrlImg":"https://automaton-media.com/wp-content/uploads/2021/08/20210825-173430-001.jpg",
+      "cpaUrl":"https://automaton-media.com/"
    }
 ]
